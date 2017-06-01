@@ -1,5 +1,5 @@
 # seckill-demo
-java 高并发处理项目 SpringMVC+Spring+mybatis
+java 高并发处理项目 SpringMVC+Spring+mybatis 
 
 项目笔记：
 
